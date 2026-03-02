@@ -1,12 +1,13 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="60%" align="center">
-        <h1>
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
-          </a>
-        </h1>
         <p align="center">
           <em>⚙️ Transformando ideas complejas en código limpio, eficiente y escalable.</em>
         </p>
@@ -56,7 +57,7 @@ Bienvenido a mi espacio en GitHub. Soy un **Ingeniero de Sistemas**, programador
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codepdbh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Paulo" height="192"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codepdbh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Paulo" height="192"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codepdbh&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="192"/>
 </div>
 <br>
