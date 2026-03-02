@@ -1,24 +1,30 @@
 <div align="center">
-  <img src="github_banner.png" alt="Header Banner" width="100%" style="border-radius: 15px;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="60%" align="center">
+        <h1>
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
+          </a>
+        </h1>
+        <p align="center">
+          <em>⚙️ Transformando ideas complejas en código limpio, eficiente y escalable.</em>
+        </p>
+        <p align="center">
+          <a href="mailto:paukarvv@gmail.com">
+            <img src="https://img.shields.io/badge/Email-paukarvv%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+          </a>
+          <br><br>
+          <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" alt="Bolivia" />
+          <img src="https://img.shields.io/badge/Rol-Ingeniero%20%7C%20Docente-000000?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Rol" />
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="github_avatar.png" alt="Paulo Avatar" style="border-radius: 15px; width: 100%; max-width: 350px;">
+      </td>
+    </tr>
+  </table>
 </div>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <em>⚙️ Transformando ideas complejas en código limpio, eficiente y escalable.</em>
-</p>
-
-<p align="center">
-  <a href="mailto:paukarvv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paukarvv%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" alt="Bolivia" />
-  <img src="https://img.shields.io/badge/Rol-Ingeniero%20%7C%20Docente-000000?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Rol" />
-</p>
 
 ---
 
