@@ -4,7 +4,7 @@
       <td width="60%" align="center">
         <h1>
           <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Paulo+%F0%9F%91%8B;Ingeniero+de+Sistemas;Desarrollador+Backend+%26+Mobile;Docente+Apasionado" alt="Typing SVG" />
           </a>
         </h1>
         <p align="center">
@@ -32,7 +32,7 @@
 
 Bienvenido a mi espacio en GitHub. Soy un **Ingeniero de Sistemas**, programador y docente radicado en **Bolivia**. Me apasiona el desarrollo de software y la enseñanza tecnológica.
 
-- 🔭 **Actualmente trabajando en:** Sistemas web de alto rendimiento y proyectos educativos interactivos.
+- 🔭 **Actualmente trabajando en:** Sistemas web de alto rendimiento, proyectos educativos interactivos, desarrollo móvil con Flutter y análisis de datos.
 - 🌱 **Aprendiendo:** Inteligencia Artificial, Análisis de Datos y perfeccionando el ecosistema Full Stack moderno.
 - 💬 **Pregúntame sobre:** Arquitectura de software, PHP, ecosistema Laravel, desarrollo móvil con Flutter o bases de datos relacionales.
 - ⚡ **Dato curioso:** Comparto mi conocimiento como docente, porque creo fírmemente que enseñar es la mejor forma de seguir aprendiendo.
@@ -56,8 +56,8 @@ Bienvenido a mi espacio en GitHub. Soy un **Ingeniero de Sistemas**, programador
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codepdbh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" alt="Estadísticas de Paulo" height="192"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codepdbh&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=C9D1D9" alt="Racha de GitHub" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codepdbh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Paulo" height="192"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codepdbh&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="192"/>
 </div>
 <br>
 
