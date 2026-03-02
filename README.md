@@ -11,8 +11,8 @@
           <em>⚙️ Transformando ideas complejas en código limpio, eficiente y escalable.</em>
         </p>
         <p align="center">
-          <a href="mailto:paukarvv@gmail.com">
-            <img src="https://img.shields.io/badge/Email-paukarvv%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+          <a href="mailto:danielbatuani@gmail.com">
+            <img src="https://img.shields.io/badge/Email-danielbatuani%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
           </a>
           <br><br>
           <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" alt="Bolivia" />
