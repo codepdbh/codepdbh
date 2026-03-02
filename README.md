@@ -19,6 +19,15 @@
           <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bolivia-000000?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" alt="Bolivia" />
           <img src="https://img.shields.io/badge/Rol-Ingeniero%20%7C%20Docente-000000?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Rol" />
         </p>
+        <br>
+        <h4 align="center">🌐 Conecta Conmigo</h4>
+        <p align="center">
+          <a href="https://linkedin.com/in/paulo-daniel-batuani-hurtado-10b12818"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
+          <a href="https://twitter.com/DanielMcDt"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00F0FF" alt="Twitter" /></a>
+          <a href="https://facebook.com/paulodaniel.batuanihurtado"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00F0FF" alt="Facebook" /></a>
+        </p>
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=codepdbh&label=VISITAS+AL+PERFIL&color=00F0FF&style=for-the-badge" alt="Profile Views" />
       </td>
       <td width="40%" align="center">
         <img src="github_avatar.png" alt="Paulo Avatar" style="border-radius: 15px; width: 100%; max-width: 350px;">
@@ -62,8 +71,4 @@ Bienvenido a mi espacio en GitHub. Soy un **Ingeniero de Sistemas**, programador
 </div>
 <br>
 
----
-<p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=codepdbh&label=Visualizaciones+del+Perfil&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-</p>
+
